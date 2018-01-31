@@ -1,7 +1,7 @@
 import edu.illinois.cs.cs125.lib.mazemaker.Maze;
 
 /**
- * Solve a randomly-generated maze.
+ * Solve a randomly-generated maze. asdf
  *
  * @see <a href="https://github.com/cs125-illinois/mazemaker">Mazemaker on GitHub</a>
  * @see <a href="https://cs125-illinois.github.io/mazemaker/">Mazemaker Documentation</a>
